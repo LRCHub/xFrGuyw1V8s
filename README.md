@@ -1,0 +1,57 @@
+# アバ – ダンシング・クイーン
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.86] Ooh
+[00:18.86] You can dance
+[00:21.60] You can jive
+[00:23.83] Having the time of your life
+[00:26.63] Ooh, see that girl
+[00:31.51] Watch that scene
+[00:33.40] Dig in the dancing queen
+[00:45.40] 
+[00:43.70] Friday night and the lights are low
+[00:47.97] Looking out for a place to go
+[00:52.63] Where they play the right music
+[00:55.37] Getting in the swing
+[00:57.24] You come to look for a king
+[01:02.64] Anybody could be that guy
+[01:07.04] Night is young and the music's high
+[01:12.10] With a bit of rock music
+[01:14.41] Everything is fine
+[01:16.41] You're in the mood for a dance
+[01:20.41] And when you get the chance
+[01:33.91] 
+[01:25.25] You are the dancing queen
+[01:28.71] Young and sweet
+[01:30.28] Only seventeen
+[01:36.17] Dancing queen
+[01:38.63] Feel the beat from the tambourine, oh yeah
+[01:45.44] You can dance
+[01:47.82] You can jive
+[01:50.21] Having the time of your life
+[01:53.99] Ooh, see that girl
+[01:57.61] Watch that scene
+[01:59.24] Dig in the dancing queen
+[02:11.24] 
+[02:14.15] You're a teaser, you turn 'em on
+[02:18.75] Leave 'em burning and then you're gone
+[02:23.33] Looking out for another
+[02:26.02] Anyone will do
+[02:27.93] You're in the mood for a dance
+[02:32.19] And when you get the chance
+[02:45.69] 
+[02:36.75] You are the dancing queen
+[02:40.28] Young and sweet
+[02:42.11] Only seventeen
+[02:47.47] Dancing queen
+[02:49.98] Feel the beat from the tambourine, oh yeah
+[02:56.83] You can dance
+[02:59.33] You can jive
+[03:01.17] Having the time of your life
+[03:05.24] Ooh, see that girl
+[03:08.91] Watch that scene
+[03:10.63] Dig in the dancing queen
+[03:21.06] Dig in the dancing queen
+```
