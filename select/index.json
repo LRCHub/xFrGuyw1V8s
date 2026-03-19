@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ダンシング・クイーン",
+  "base_artist": "アバ",
+  "createdAt": "2026-03-19T06:43:23.087995Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンシング・クイーン",
+      "artist": "アバ",
+      "has_synced": true,
+      "path": "select/01_ダンシング・クイーン_アバ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/pl_01_Dancing_Queen_ABBA.txt"
+    }
+  ]
+}
